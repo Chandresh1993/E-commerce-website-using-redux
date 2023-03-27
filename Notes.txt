@@ -1,0 +1,11 @@
+Redux life cycle.
+1. Action creator  => you
+2. action.   => Booking form
+3. dispatch.  => Submit form
+4. Reducers.  => Ticket counters
+5. Store.   => railway central store.
+
+--
+- UseSelector hook  se hum  apne redux ki state ke data ko excess kar sakte hai.
+
+- 
